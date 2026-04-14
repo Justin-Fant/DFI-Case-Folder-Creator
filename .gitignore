@@ -1,0 +1,33 @@
+# Windows temporary/system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.bak
+*.log
+
+# Windows folder settings
+System Volume Information/
+
+# macOS junk (in case someone opens it on Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Script backup files
+*.ps1.bak
+*.bat.bak
+
+# Any test case folders you might create later
+Test_Cases/
+Test/
+
+# Personal notes or scratch files
+TODO.txt
+notes.txt
