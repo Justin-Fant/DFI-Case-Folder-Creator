@@ -17,18 +17,3 @@ Automatically creates a clean, court-ready folder structure following best pract
 3. Double-click `DFI-Case-Folder-Creator.bat`
 4. Enter your case name (example: `2601-0001`) and press Enter
 5. Press Enter again to accept the default location
-
-### Folder Structure Created
-CaseName/
-├── 01_Raw_Evidence/
-├── 02_Analysis/
-├── 03_Reports/
-├── 04_Exports/
-│   ├── Carved_Images/
-│   ├── Carved_Videos/
-│   ├── Documents/
-│   ├── Chat_Exports/
-│   └── Media/
-├── 05_Notes_Documents/
-├── 06_Hashes_Verification/
-└── 99_Archive/
